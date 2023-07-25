@@ -1,0 +1,7 @@
+venv
+.idea
+.vscode
+db*
+__pycache__
+.env
+datasets
